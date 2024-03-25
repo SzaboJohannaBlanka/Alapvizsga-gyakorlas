@@ -1,2 +1,2 @@
-# -AV-gyakorl-s
+# -Alapvizsga-practice
 Not finished yet

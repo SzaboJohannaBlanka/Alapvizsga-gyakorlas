@@ -1,2 +1,1 @@
-# -Alapvizsga-practice
-Not finished yet
+# Alapvizsga-practice
